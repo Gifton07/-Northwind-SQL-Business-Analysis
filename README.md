@@ -39,3 +39,11 @@ The **Northwind SQLite Database** is a sample business database that contains in
 - 📄 **queries.sql** – SQL queries used for the analysis.
 - 📓 **analysis.ipynb** – SQL execution and Pandas analysis.
 - 📝 **README.md** – Project documentation and key insights.
+
+
+![Top 10 Selling Products](Screenshot%20(198).png)
+
+### Top 10 Selling Products
+![Top 10 Customers](Screenshot%20(199).png)
+
+![Monthly Sales Trend](Screenshot%20(200).png)
